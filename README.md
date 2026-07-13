@@ -6,8 +6,6 @@
 **Tags:** LFI, File Inclusion, Basic Web Enumeration <br/>
 **Vibes:** Maxed <br/>
 
-<img width="934" height="388" alt="Cover" src="https://github.com/user-attachments/assets/9999830e-d465-45c3-a08b-4ea97e56cd8f" /> <br/>
-
 ---
 
 ## 🧠 Intro: Zen Hacking 101
