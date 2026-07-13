@@ -1,9 +1,7 @@
-# 🎧 TryHackMe - *Lo-Fi* Room Walkthrough
+# 🎧 *Lo-Fi* Room Walkthrough
 
 ### 🗿 *"Rooting in Peace, One Vibe at a Time..."*
 
-**Room:** [https://tryhackme.com/room/lofi](https://tryhackme.com/room/lofi) <br/>
-**Author:** TryHackMe <br/>
 **Difficulty:** *Easy-Chill* <br/>
 **Tags:** LFI, File Inclusion, Basic Web Enumeration <br/>
 **Vibes:** Maxed <br/>
@@ -15,7 +13,7 @@
 ## 🧠 Intro: Zen Hacking 101
 
 Lofi + Hacking = peak productivity mode 🧘‍♂️.
-This TryHackMe room invites you into a relaxed yet potent hacking space where the goal is simple — capture the flag, but do it with **style**, **flow**, and **zero stress**.
+This room invites you into a relaxed yet potent hacking space where the goal is simple — capture the flag, but do it with **style**, **flow**, and **zero stress**.
 
 There’s no SSH bruteforce or kernel exploits here. Just good old-fashioned **Local File Inclusion (LFI)**, a vulnerable web server, and that flag.txt hidden in plain sight.
 
